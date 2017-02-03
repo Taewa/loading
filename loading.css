@@ -19,7 +19,7 @@
   z-index: 2000000000;
   left: 50%;
   top: 50%;
-  margin-left: 20px;
+  margin-left: -20px;
 }
 .loading .sk-double-bounce1 {
   background: #1f4377;
